@@ -1,4 +1,3 @@
-# Hello, I am Vincent!
 
 ## Projects
 ### Project 1
